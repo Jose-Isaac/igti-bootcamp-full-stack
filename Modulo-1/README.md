@@ -9,5 +9,5 @@
   > #### > [Desafio](./Desafio-1)
   
   ### GitHub Pages
-  > #### > [Trabalho Prático]()
+  > #### > [Trabalho Prático](https://jose-isaac.github.io/generator-rgb/)
   > #### > [Desafio]()
