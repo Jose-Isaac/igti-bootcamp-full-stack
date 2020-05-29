@@ -1,4 +1,6 @@
-![Bootcamp logo](./Imagens/bootcamp-logo.png)
+<p align="center">
+  <img src="./Imagens/bootcamp-logo.png" alt="Logo Bootcamp"/>
+</p>
 
 # IGTI - Bootcamp Full-Stack (maio-2020)
 
