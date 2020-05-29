@@ -8,6 +8,6 @@
   > #### > [Trabalho Prático](./Trabalho-Pratico-1)
   > #### > [Desafio](./Desafio-1)
   
-  ### No GitHub Pages
+  ### GitHub Pages
   > #### > [Trabalho Prático]()
   > #### > [Desafio]()
