@@ -5,8 +5,8 @@
 # Módulo 1
 
   ### Código Fonte
-  > #### > [Trabalho Prático](./Trabalho-Pratico-1)
-  > #### > [Desafio](./Desafio-1)
+  > #### > [Trabalho Prático](./Trabalho Pratico 1)
+  > #### > [Desafio](./Desafio 1)
   
   ### GitHub Pages
   > #### > [Trabalho Prático](https://jose-isaac.github.io/generator-rgb/)
