@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./scss/style.css" />
+    <title>Generator RGB color</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">
+        <h2>Generator rgb()</h2>
+        <div class="inner-box">
+          <form>
+            <div>
+              <span>red</span>
+              <input
+                type="range"
+                id="range-red"
+                min="0"
+                max="255"
+                value="219"
+              />
+              <input type="text" id="out-red" disabled />
+            </div>
+            <div>
+              <span>green</span>
+              <input
+                type="range"
+                id="range-green"
+                min="0"
+                max="255"
+                value="112"
+              />
+              <input type="text" id="out-green" disabled />
+            </div>
+            <div>
+              <span>blue</span>
+              <input
+                type="range"
+                id="range-blue"
+                min="0"
+                max="255"
+                value="147"
+              />
+              <input type="text" id="out-blue" disabled />
+            </div>
+          </form>
+        </div>
+        <div id="print-color">
+          <p id="print-rgb"></p>
+        </div>
+      </div>
+    </div>
+    <script src="./js/script.js" defer></script>
+  </body>
+</html>

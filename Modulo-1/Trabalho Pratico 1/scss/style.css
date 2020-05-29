@@ -1,0 +1,71 @@
+.flex, body .container, body .container .box, body .container .box .inner-box, body .container .box .inner-box div, body .container .box #print-color {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .container {
+  width: 100vw;
+  height: 100vh;
+  background: #6c7a89;
+}
+
+body .container .box {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 20vw;
+  height: 60vh;
+  background-color: white;
+  font-family: monospace;
+}
+
+body .container .box h2 {
+  -webkit-box-shadow: inset 7.2em 2px palevioletred;
+          box-shadow: inset 7.2em 2px palevioletred;
+  font-size: 1.3rem;
+}
+
+body .container .box .inner-box div {
+  font-size: 1.1rem;
+  margin: 4%;
+}
+
+body .container .box .inner-box div input {
+  border-radius: 0.3rem;
+  border: 1px solid palevioletred;
+  text-align: center;
+  margin: 2%;
+}
+
+body .container .box .inner-box div input[type="range"] {
+  background: transparent;
+}
+
+body .container .box #print-color {
+  width: 100%;
+  height: 13%;
+  background-color: palevioletred;
+}
+
+body .container .box #print-color #print-rgb {
+  background-color: white;
+  font-size: 1, 2rem;
+  border-radius: 0.3rem;
+}
+
+@media (max-width: 1044px) {
+  body .container .box {
+    width: 30vw;
+  }
+}
+/*# sourceMappingURL=style.css.map */
