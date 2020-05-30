@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Imagens/bootcamp-logo.png" alt="Logo Bootcamp"/>
+  <img src="../assets/bootcamp-logo.png" alt="Logo Bootcamp"/>
 </p>
 
 # Módulo 1
