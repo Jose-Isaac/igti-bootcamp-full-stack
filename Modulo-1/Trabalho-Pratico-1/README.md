@@ -45,3 +45,7 @@
 </p>
 
 ### Resultado final da aplicação
+
+<p align="center">
+  <img src="../../assets/generator-rgb.png" alt="Logo Bootcamp"/>
+</p>
