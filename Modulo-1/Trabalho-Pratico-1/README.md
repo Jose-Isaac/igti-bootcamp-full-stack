@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Imagens/bootcamp-logo.png" alt="Logo Bootcamp"/>
+  <img src="../../assets/bootcamp-logo.png" alt="Logo Bootcamp"/>
 </p>
 
 <h1 align="center">IGTI - Bootcamp Full-Stack (maio-2020)</h1>
@@ -41,8 +41,7 @@
 ### Interface de exemplo fornecida pelo professor
 
 <p align="center">
-  <img src="../Imagens/interface-trabalho-1.png" alt="Logo Bootcamp"/>
+  <img src="../../assets/interface-trabalho-1.png" alt="Logo Bootcamp"/>
 </p>
 
 ### Resultado final da aplicação
-
