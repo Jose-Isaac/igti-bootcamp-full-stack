@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bootcamp-logo.png" alt="Logo Bootcamp"/>
+  <img src="../../assets/bootcamp-logo.png" alt="Logo Bootcamp"/>
 </p>
 
 <h1 align="center">IGTI - Bootcamp Full-Stack (maio-2020)</h1>
