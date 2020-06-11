@@ -4,7 +4,7 @@
 
 <h1 align="center">IGTI - Bootcamp Full-Stack (maio-2020)</h1>
 
-# Desafio 1
+# Desafio 2
 
 ## Objetivo
 
