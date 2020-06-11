@@ -4,7 +4,7 @@
 
 <h1 align="center">IGTI - Bootcamp Full-Stack (maio-2020)</h1>
 
-###### obs: execute npm install antes de executar o api
+###### obs: execute npm install antes de executar a api
 # Desafio 2
 
 ## Objetivo
