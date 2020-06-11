@@ -6,8 +6,8 @@
 
   ### Código Fonte
   > #### > <a href="https://github.com/Jose-Isaac/generator-rgb">Trabalho Prático</a>
-  > #### > [Desafio](./Desafio-1)
+  > #### > <a href="https://github.com/Jose-Isaac/user-filter">Desafio</a>
   
   ### GitHub Pages
   > #### > [Trabalho Prático](https://jose-isaac.github.io/generator-rgb/)
-  > #### > [Desafio]()
+  > #### > [Desafio](https://jose-isaac.github.io/user-filter/)
