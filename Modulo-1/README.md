@@ -5,7 +5,7 @@
 # Módulo 1
 
   ### Código Fonte
-  > #### > [Trabalho Prático](./Trabalho-Pratico-1)
+  > #### > <a href="https://github.com/Jose-Isaac/generator-rgb">Trabalho Prático</a>
   > #### > [Desafio](./Desafio-1)
   
   ### GitHub Pages
