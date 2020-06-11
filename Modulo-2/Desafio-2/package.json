@@ -1,0 +1,20 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "Uma api de controle de notas Acadêmicas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grades"
+  ],
+  "author": "@j.isaac.b.c",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {}
+}
